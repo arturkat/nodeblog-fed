@@ -95,13 +95,11 @@ body {
   -webkit-flex: auto;
       -ms-flex: auto;
           flex: auto;
-  flex: auto;
   color: #333;
   background-color: #fff;
   padding-top: 64px; }
 
 .header {
-  margin-top: 100px;
   position: fixed;
   top: 0;
   width: 100%;
